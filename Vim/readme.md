@@ -21,11 +21,13 @@ It is a *one mode* system, an **Insert system**.
 
 
 🥊 But Vim is different, it has **multiple modes** built in it:
- 👨‍🔬 Normal mode| 
-   -                    
- ✍️ **Insert mode** 
-  🔍 **Visual mode** 
- 
+   |   Mode         |    Description                                                         |
+| ----------------- | ------------------------------------------------------------------ |
+| **👨‍🔬 Normal** | move the cursor, and type vim commands |
+| ✍️ **Insert**|  move the cursor and Type words|
+|  🔍 **Visual mode** | moving the cursor selects the text |
+
+
     
 
 You can type in commands by typing " : (colon) "  while in normal mode
