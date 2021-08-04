@@ -24,7 +24,7 @@ It is a *one mode* system, an **Insert system**.
    |   Mode         |    Description                                                         |
 | ----------------- | ------------------------------------------------------------------ |
 | **👨‍🔬 Normal** | move the cursor, and type vim commands |
-| ✍️ **Insert**|  move the cursor and Type words|
+| ✍️ **Insert**|  move the cursor and type words|
 |  🔍 **Visual mode** | moving the cursor selects the text |
 
 
